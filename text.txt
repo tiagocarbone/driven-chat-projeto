@@ -1,0 +1,48 @@
+uuid = 097afc86-6ec8-4466-bf40-f7bdb9469ffc
+
+
+// tratar depois 
+
+/*
+ let modais = document.querySelectorAll(".user");
+
+    modais.forEach((modal) => {
+      if (modal.querySelector("p").innerText == nome) {
+        modal.remove();
+      }
+    })
+
+
+
+
+   promise.then(() => {
+      let modalTodos = document.querySelectorAll(".user")[0];
+
+      let paragrafoPublico = document.querySelectorAll(".visibilidade-container")[0];
+      let paragrafoReservadamente = document.querySelectorAll(".visibilidade-container")[1];
+
+      ///
+      if (!modalTodos.querySelector("svg").classList.contains("not-click") &&!paragrafoReservadamente.querySelector("svg").classList.contains("not-click")) {
+        paragrafoReservadamente.querySelector("svg").classList.add("not-click");
+        paragrafoPublico.querySelector("svg").classList.remove("not-click");
+        destinoMensagem = "Todos";
+        privacidadeMensagem = "message";
+        montaParagrafo();
+      }
+    });
+
+
+
+     function insereReservadamente() {
+    console.log("reserva");
+    let paragrafoPublico = document.querySelectorAll(
+      "visibilidade-container"
+    )[0];
+    let paragrafoReservadamente = document.querySelectorAll(
+      "visibilidade-container"
+    )[0];
+
+    console.log(paragrafoPublico);
+    console.log(paragrafoReservadamente);
+  }
+*/
